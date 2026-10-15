@@ -1,3 +1,4 @@
+#Heros
 # Capacités:
 Les héros possèdent des capacités exceptionnelles et une durée de vie considérablement supérieure à celle des humains ordinaires.
 Lorsqu'un héros meurt, un nouveau est créée par la société _Omnicorp_. Les pouvoirs des héros sont impossible à prévoir et à influencer lors de la création.
